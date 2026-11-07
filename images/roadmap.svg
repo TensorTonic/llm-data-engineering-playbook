@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="240" viewBox="0 0 1280 240">
+<rect x="0.5" y="0.5" width="1279" height="239" rx="16" fill="#ffffff" stroke="#e5e5e5"/>
+<defs><marker id="a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#00753e"/></marker></defs>
+<g font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+<text x="40" y="38" font-size="15" fill="#737373" letter-spacing="2">THE ROADMAP</text>
+<rect x="40" y="60" width="176" height="140" rx="12" fill="#fafafa" stroke="#e5e5e5"/>
+<circle cx="70" cy="90" r="14" fill="#00ff88"/><text x="70" y="96" font-size="16" font-weight="700" fill="#0a0a0a" text-anchor="middle">1</text>
+<text x="58" y="140" font-size="20" font-weight="700" fill="#0a0a0a">Records &amp;</text><text x="58" y="164" font-size="20" font-weight="700" fill="#0a0a0a">Contracts</text>
+<text x="58" y="186" font-size="14" fill="#737373">5 topics</text>
+<line x1="222" y1="130" x2="237" y2="130" stroke="#00753e" stroke-width="2.5" marker-end="url(#a)"/>
+<rect x="245" y="60" width="176" height="140" rx="12" fill="#fafafa" stroke="#e5e5e5"/>
+<circle cx="275" cy="90" r="14" fill="#00ff88"/><text x="275" y="96" font-size="16" font-weight="700" fill="#0a0a0a" text-anchor="middle">2</text>
+<text x="263" y="140" font-size="20" font-weight="700" fill="#0a0a0a">Cleaning &amp;</text><text x="263" y="164" font-size="20" font-weight="700" fill="#0a0a0a">Profiling</text>
+<text x="263" y="186" font-size="14" fill="#737373">7 topics</text>
+<line x1="427" y1="130" x2="442" y2="130" stroke="#00753e" stroke-width="2.5" marker-end="url(#a)"/>
+<rect x="450" y="60" width="176" height="140" rx="12" fill="#fafafa" stroke="#e5e5e5"/>
+<circle cx="480" cy="90" r="14" fill="#00ff88"/><text x="480" y="96" font-size="16" font-weight="700" fill="#0a0a0a" text-anchor="middle">3</text>
+<text x="468" y="152" font-size="20" font-weight="700" fill="#0a0a0a">Deduplication</text>
+<text x="468" y="186" font-size="14" fill="#737373">6 topics</text>
+<line x1="632" y1="130" x2="646" y2="130" stroke="#00753e" stroke-width="2.5" marker-end="url(#a)"/>
+<rect x="654" y="60" width="176" height="140" rx="12" fill="#fafafa" stroke="#e5e5e5"/>
+<circle cx="684" cy="90" r="14" fill="#00ff88"/><text x="684" y="96" font-size="16" font-weight="700" fill="#0a0a0a" text-anchor="middle">4</text>
+<text x="672" y="140" font-size="20" font-weight="700" fill="#0a0a0a">Splits &amp;</text><text x="672" y="164" font-size="20" font-weight="700" fill="#0a0a0a">Leakage</text>
+<text x="672" y="186" font-size="14" fill="#737373">8 topics</text>
+<line x1="836" y1="130" x2="851" y2="130" stroke="#00753e" stroke-width="2.5" marker-end="url(#a)"/>
+<rect x="859" y="60" width="176" height="140" rx="12" fill="#fafafa" stroke="#e5e5e5"/>
+<circle cx="889" cy="90" r="14" fill="#00ff88"/><text x="889" y="96" font-size="16" font-weight="700" fill="#0a0a0a" text-anchor="middle">5</text>
+<text x="877" y="140" font-size="20" font-weight="700" fill="#0a0a0a">Labels &amp;</text><text x="877" y="164" font-size="20" font-weight="700" fill="#0a0a0a">Preferences</text>
+<text x="877" y="186" font-size="14" fill="#737373">9 topics</text>
+<line x1="1041" y1="130" x2="1056" y2="130" stroke="#00753e" stroke-width="2.5" marker-end="url(#a)"/>
+<rect x="1064" y="60" width="176" height="140" rx="12" fill="#fafafa" stroke="#e5e5e5"/>
+<circle cx="1094" cy="90" r="14" fill="#00ff88"/><text x="1094" y="96" font-size="16" font-weight="700" fill="#0a0a0a" text-anchor="middle">6</text>
+<text x="1082" y="140" font-size="20" font-weight="700" fill="#0a0a0a">Versioning</text><text x="1082" y="164" font-size="20" font-weight="700" fill="#0a0a0a">&amp; Gates</text>
+<text x="1082" y="186" font-size="14" fill="#737373">8 topics</text>
+</g></svg>
