@@ -131,6 +131,8 @@ A dataset changes every time a source, a filter or a split rule changes, and eac
 
 Once these checks feel familiar, use them on a real training run. The [fine-tuning project](https://www.tensortonic.com/projects/llm-finetuning/qwen3-medical-qa) walks through preparing data and training an adapter, the [DPO project](https://www.tensortonic.com/projects/dpo-from-scratch) builds on preference pairs, and the [Build LLM from Scratch study plan](https://www.tensortonic.com/study-plans/language-modeling-from-scratch) covers tokenization, deduplication and data mixtures alongside the rest of the training stack.
 
+When your dataset is ready, the [How to Fine-Tune an LLM](https://www.tensortonic.com/guides/how-to-fine-tune-an-llm) guide explains how to train a model on it, and the [Build a RAG System from Scratch](https://www.tensortonic.com/guides/build-a-rag-system-from-scratch) guide explains how to give a model access to a document collection through retrieval.
+
 ## License
 
 MIT
